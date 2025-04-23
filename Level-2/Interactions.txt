@@ -1,0 +1,23 @@
+You: What is the capital of france?
+
+Thinking..\
+Assistant:
+The capital of France is Paris.
+
+
+You: Add 45 and 30                 
+
+Thinking..\
+Calculator:
+The final answer is: 75.0
+
+You: Multiply 9 and 8, and also tell me the capital of Japan.
+
+Thinking..\
+Sorry, I can't answer multi-part questions (e.g., calculation and general knowledge) in one go.
+
+You: What is 12 times 7?
+
+Thinking..\
+Calculator:
+The final answer is: 84.0

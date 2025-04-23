@@ -1,0 +1,56 @@
+You: Add 2 and 2 and multiply 3 and 3.
+
+Thinking..|
+Calculator:
+The final answer is: 4.0
+
+----------------------------------------
+
+Calculator:
+The final answer is: 9.0
+
+You: Translate 'Sunshine' into German.
+
+Thinking..|
+Translator:
+'Sunshine' in German is: 'Sonnenschein'
+
+You: Tell me the capital of Italy, then multiply 12 and 12.
+
+Thinking..|
+Assistant:
+The capital of Italy is Rome.
+
+
+----------------------------------------
+
+Calculator:
+The final answer is: 144.0
+
+You: Add 10 and 20, then translate 'Have a nice day' into German.
+
+Thinking..|
+Calculator:
+The final answer is: 30.0
+
+----------------------------------------
+
+Translator:
+'Have a nice day' in German is: 'Einen schönen Tag noch'
+
+You: Translate 'Good Morning' into German and then multiply 5 and 6.
+
+Thinking..|
+Translator:
+'Good Morning' in German is: 'Guten Morgen'
+
+----------------------------------------
+
+Calculator:
+The final answer is: 30.0
+
+You: What is the distance between Earth and Mars?                   
+
+Thinking..|
+Assistant:
+The distance between Earth and Mars changes constantly as they orbit the sun.  Because they have different orbital paths and speeds,  sometimes they are closer and sometimes they are farther away.  I cannot give you a specific number representing the distance because it involves calculations which I'm not supposed to do.
